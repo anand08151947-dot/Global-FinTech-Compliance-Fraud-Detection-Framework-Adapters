@@ -1,0 +1,2 @@
+# Global-FinTech-Compliance-Fraud-Detection-Framework-Adapters
+This project simulates a modular, extensible, and agentic FinTech compliance and fraud detection framework using Python. It is designed to model the complex, real-world workflows found in global financial institutions, where multiple specialized systems and teams must collaborate to ensure regulatory compliance and detect fraud in real time.
